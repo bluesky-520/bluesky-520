@@ -13,9 +13,6 @@
 <p align="center">
   Hi, I'm AI full stack developer.
   <br />
-  <br />
-  🎓 Currently a high school student.
-  <br />
   💻 I love to learn new technologies and frameworks.
   <br />
   🧑‍💼 I’m currently a freelancer working as a Next.js developer.
